@@ -38,7 +38,7 @@ The objectives of this assessment were to:
 | Environment | Web Application |
 | Project | Networkwalks B082 – Week 4 Capstone |
 | Tester | Ismail Victor Elias |
-| Mentor | [MENTOR NAME] |
+| Mentor | WAQAS KARIM (CCIE) |
 | Classification | Confidential |
 
 ---
